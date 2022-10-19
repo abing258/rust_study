@@ -7,4 +7,6 @@
 
 [项目结构](./rust_framework.md) 记录了rust的项目结构  
 
-[集合](./rust_collections.md) 记录了rust中的常见集合和用法
+[集合](./rust_collections.md) 记录了rust中的常见集合和用法  
+
+[错误处理](./rust_error_handing.md) panic!的使用及场景  
