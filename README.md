@@ -10,3 +10,5 @@
 [集合](./rust_collections.md) 记录了rust中的常见集合和用法  
 
 [错误处理](./rust_error_handing.md) panic!的使用及场景  
+
+[泛型 trait 生命周期](./rust_trait.md) 泛型 trait 生命周期的使用及场景  
