@@ -12,3 +12,5 @@
 [错误处理](./rust_error_handing.md) panic!的使用及场景  
 
 [泛型 trait 生命周期](./rust_trait.md) 泛型 trait 生命周期的使用及场景  
+
+[编写自动化测试](./rust_test.md) 编写自动化测试   
