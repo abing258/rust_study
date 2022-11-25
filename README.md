@@ -14,3 +14,5 @@
 [泛型 trait 生命周期](./rust_trait.md) 泛型 trait 生命周期的使用及场景  
 
 [编写自动化测试](./rust_test.md) 编写自动化测试   
+
+[I/O操作](./mini_grep) 获取环境变量/获取文件内容/优化项目结构
