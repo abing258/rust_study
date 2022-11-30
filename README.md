@@ -16,3 +16,5 @@
 [编写自动化测试](./rust_test.md) 编写自动化测试   
 
 [I/O操作](./mini_grep) 获取环境变量/获取文件内容/优化项目结构
+
+[闭包和迭代器](./rust_closures_iterator.md) 闭包和迭代器的介绍和使用
